@@ -1,0 +1,245 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+	},{
+		"path" : "pages/wapclassify/classify",
+		"style" :                                                                                    
+		{
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+		
+	},{
+		"path" : "pages/wapcommonlist/commonlist",
+		"style" :                                                                                    
+		{
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+		
+	},{
+		"path" : "pages/wapshopping/shopping",
+		"style" :                                                                                    
+		{
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+		
+	},{
+		"path": "pages/wapusercenter/usercenter",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+	}    ,{
+            "path" : "pages/wapusercenter/merchantInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/cashCoupon",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "components/tabbar/tabbar",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/aboutUs",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/modifyPassword",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/cashCoupon",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/merchantInfo",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/feedback",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/login",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/login/forgetPassword",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/accountBalance",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/sysMessage",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapshopping/orderSubmit",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "components/navBar/navBar",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapshopping/collect",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/order",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/wapusercenter/orderDetails",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#007AFF",
+		"backgroundColor": "#FFFFFF",
+		"navigationStyle":"custom",
+				"app-plus":{
+					"titleView":false
+				}
+	}
+	// "tabBar": {
+	//     "color": "#333",
+	//     "selectedColor": "#aace52",
+	//     "borderStyle": "black",
+	//     "backgroundColor": "#ffffff",
+	// 	"fontSize":"12px",
+	// 	"iconWidth": "20px",
+	//     "list": [{
+	//         "pagePath": "pages/index/index",
+	//         "iconPath": "static/bottom_menu_1.png",
+	//         "selectedIconPath": "static/bottom_menu_1_hover.png",
+	//         "text": "首页"
+	//     },{
+	//         "pagePath": "pages/wapclassify/classify",
+	//         "iconPath": "static/bottom_menu_2.png",
+	//         "selectedIconPath": "static/bottom_menu_2_hover.png",
+	//         "text": "分类"
+	//     },{
+	//         "pagePath": "pages/wapcommonlist/commonlist",
+	//         "iconPath": "static/bottom_menu_3.png",
+	//         "selectedIconPath": "static/bottom_menu_3_hover.png",
+	//         "text": "我的菜谱"
+	//     },{
+	//         "pagePath": "pages/wapshopping/shopping",
+	//         "iconPath": "static/bottom_menu_4.png",
+	//         "selectedIconPath": "static/bottom_menu_4_hover.png",
+	//         "text": "购物车"
+	//     },{
+	//         "pagePath": "pages/wapusercenter/usercenter",
+	//         "iconPath": "static/bottom_menu_5.png",
+	//         "selectedIconPath": "static/bottom_menu_5_hover.png",
+	//         "text": "我的"
+	//     }]
+	// }
+}
